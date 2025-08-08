@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   [![wakatime](https://wakatime.com/badge/user/9cd2eae8-f9e9-48ad-ad37-52aef8ad1595.svg)](https://wakatime.com/@9cd2eae8-f9e9-48ad-ad37-52aef8ad1595)
-
-  [![wakatime](https://wakatime.com/share/@9cd2eae8-f9e9-48ad-ad37-52aef8ad1595/04c3f3d1-c8f2-4878-bfa5-d76a1f5b6f6e.png)](https://wakatime.com/@9cd2eae8-f9e9-48ad-ad37-52aef8ad1595)
